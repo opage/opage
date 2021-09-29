@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://budtmo.github.io"><img src="https://github-readme-stats.vercel.app/api?username=opage&hide=contribs&count_private=true&show_icons=true"></a>
+  <a href="https://opage.github.io"><img src="https://github-readme-stats.vercel.app/api?username=opage&hide=contribs&count_private=true&show_icons=true"></a>
   
-  <a href="https://budtmo.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opage"></a>
+  <a href="https://opage.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opage"></a>
 </p>
