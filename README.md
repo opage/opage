@@ -1,6 +1,7 @@
 ### About Me 😎
 
 - 🔭 Working as a full-time **full-stack engineer** at [Sfeir](https://github.com/sfeir)
+- ⚡ And i am also a polyglot coder.
 - ✨ My interests are Web Frontend, Angular, TypeScript, .Net Core, Spring, etc.
 
 <!--
